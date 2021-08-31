@@ -1,4 +1,4 @@
-# JSPProject
+# JSP BBS 
 JSP project with using MySQL
 
 ```
